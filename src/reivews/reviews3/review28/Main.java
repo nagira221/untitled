@@ -1,4 +1,4 @@
-package reivews3.review28;
+package reivews.reviews3.review28;
 
 import java.io.*;
 public class Main {

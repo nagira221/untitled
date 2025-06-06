@@ -1,4 +1,4 @@
-package reivews3.review29;
+package reivews.reviews3.review29;
 
 public class Main {
     public static void main(String[] args) {
